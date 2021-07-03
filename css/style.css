@@ -20,6 +20,9 @@ h1{
     width: 750px;
     margin-bottom: 50px;
 }
+.text h3{
+    font-size: 20px;
+}
 
 .image img{
     width: 80%;
@@ -39,3 +42,24 @@ h1{
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
 }
+.image2{
+    width: 50%;
+}
+.text2{
+    width: 50%;
+    margin-top: 110px;
+}
+
+.text2 p{
+    width: 750px;
+    margin-bottom: 50px;
+}
+.text2 h3{
+    font-size: 20px;
+}
+.dream-big{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
