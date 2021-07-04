@@ -62,4 +62,45 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
-
+.baby-dev{
+    margin-top: 150px;
+    width: 800px;
+    height: 400px;
+    margin-left: 95px;
+    border-left: 8px solid;
+    border-image:linear-gradient(rgb(255, 100, 44),  rgb(170, 0, 0));
+    border-image-slice: 1;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.baby-dev h3{
+    color: orange;
+    padding-left: 45px;
+    font-weight: 500;
+}
+.baby-dev h1{
+    padding-left: 45px;
+    font-weight: 400;
+}
+.baby-dev p{
+    padding-left: 45px;
+    padding-right: 20px;
+}
+.ex-head{
+    text-align: center;
+}
+.full-dev{
+    margin-top: 50px;
+}
+.Experience{
+    display: block;
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.third{
+    display: flex;
+}
+.copyright{
+    margin-left: 65%;
+    margin-top: 0;
+    margin-bottom: 100px;
+}
